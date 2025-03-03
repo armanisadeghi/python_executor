@@ -1,0 +1,11 @@
+# Ignore VS Code history files
+.history/
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.log
